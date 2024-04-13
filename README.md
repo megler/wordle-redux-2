@@ -2,11 +2,11 @@
 
 ## URL:
 
-https://megler.github.io/wordle-redux/wordle/
+https://megler.github.io/wordle-redux-2/wordle/
 
 ## Repo
 
-https://github.com/megler/wordle-redux
+https://github.com/megler/wordle-redux-2
 
 ## Question
 
